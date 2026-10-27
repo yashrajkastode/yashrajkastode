@@ -30,12 +30,6 @@ A web-based tool for exploring potential drug interactions and medication compon
 
 [View Repository](https://github.com/yashrajkastode/med-matrix)
 
-### 📦 nuScenes 3D Detection
-A PointPillars-based 3D object detection training and inference pipeline for the nuScenes dataset.
-
-**Tech:** Python, PyTorch, 3D Computer Vision
-
-[View Repository](https://github.com/yashrajkastode/nuscenes-3d-detection)
 
 ## 🛠️ Technical Interests
 
@@ -54,4 +48,4 @@ A PointPillars-based 3D object detection training and inference pipeline for the
 ## 🤝 Connect With Me
 
 - GitHub: [@yashrajkastode](https://github.com/yashrajkastode)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/YashrajKastode/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/yashraj-kastode/)
